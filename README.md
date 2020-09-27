@@ -1,7 +1,7 @@
-# ShapeFall
+# Shape Fall
 A Unity mobile game that tests player's ability to act fast and think ahead. It's a simple concept. Match the box's shape with the shape that's about to fall into it. What's the highest score you can get?
 
-#### Click for trailer video
+### Click to View Trailer
 [![ShapeFallThumbnail](https://user-images.githubusercontent.com/60367213/94345583-88c1fa00-ffec-11ea-996b-efe0fdc39773.png)](https://youtu.be/llMoeFOfpPc)
 
 # Download Link
